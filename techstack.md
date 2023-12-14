@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 thachlp/armeria is built on the following main stack:
+
 - [Google Analytics](http://www.google.com/analytics) – General Analytics
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Python](https://www.python.org) – Languages
@@ -34,13 +35,17 @@ thachlp/armeria is built on the following main stack:
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 thachlp/armeria is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -73,16 +78,19 @@ thachlp/armeria is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [thachlp/armeria](https://github.com/thachlp/armeria)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|95<br/>Tools used|11/10/23 <br/>Report generated|
+|102<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -226,7 +234,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (2)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1032/cassandra_small.png' alt='Cassandra'>
@@ -240,6 +248,14 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'>
   <br>
   <sub><a href="http://graphql.org/">GraphQL</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'>
+  <br>
+  <sub><a href="https://github.com/pgvector/pgvector/">pgvector</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -392,7 +408,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (2)
+## Other (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png' alt='Gatsby'>
@@ -400,6 +416,22 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://www.gatsbyjs.org">Gatsby</a></sub>
   <br>
   <sub>v3.15.0</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
+  <br>
+  <sub><a href="http://">HTML</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'>
+  <br>
+  <sub><a href="https://github.com/hwchase17/langchain">LangChain</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -414,9 +446,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (59)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (63)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (59)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (60)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -430,13 +462,14 @@ Full tech stack [here](/techstack.md)
 |[@mdx-js/react](https://www.npmjs.com/@mdx-js/react)|v1.6.22|10/11/22|Ikhun Um |MIT|N/A|
 |[@types/html-webpack-plugin](https://www.npmjs.com/@types/html-webpack-plugin)|v3.2.6|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[@types/jsdom](https://www.npmjs.com/@types/jsdom)|v16.2.14|04/19/22|Trustin Lee |MIT|N/A|
-|[@types/node](https://www.npmjs.com/@types/node)|v17.0.24|07/29/22|Gyuil Han |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v20.3.1|07/29/22|Gyuil Han |MIT|N/A|
 |[@types/react](https://www.npmjs.com/@types/react)|v17.0.42|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v17.0.14|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[@types/react-router-dom](https://www.npmjs.com/@types/react-router-dom)|v5.3.3|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[@types/webpack](https://www.npmjs.com/@types/webpack)|v4.41.32|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.19.0|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.19.0|07/29/22|Gyuil Han |BSD-2-Clause|N/A|
+|[antd](https://www.npmjs.com/antd)|v4.19.5|04/19/22|Trustin Lee |MIT|N/A|
 |[babel-loader](https://www.npmjs.com/babel-loader)|v8.2.4|04/19/22|Trustin Lee |MIT|N/A|
 |[babel-plugin-import](https://www.npmjs.com/babel-plugin-import)|v1.13.5|07/06/22|minux |MIT|N/A|
 |[compression-webpack-plugin](https://www.npmjs.com/compression-webpack-plugin)|v9.2.0|03/31/23|Doğaç Eldenk |MIT|N/A|
@@ -470,17 +503,26 @@ Full tech stack [here](/techstack.md)
 |[react-syntax-highlighter](https://www.npmjs.com/react-syntax-highlighter)|v15.5.0|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[regenerator-runtime](https://www.npmjs.com/regenerator-runtime)|v0.13.9|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[remark-github](https://www.npmjs.com/remark-github)|v10.1.0|03/07/22|Trustin Lee |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.30.5|06/02/22|dependabot[bot] |Apache-2.0|N/A|
+|[sharp](https://www.npmjs.com/sharp)|v0.32.3|06/02/22|dependabot[bot] |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[source-map-explorer](https://www.npmjs.com/source-map-explorer)|v2.5.2|03/07/22|Trustin Lee |Apache-2.0|N/A|
 |[style-loader](https://www.npmjs.com/style-loader)|v3.3.1|03/24/22|Trustin Lee |MIT|N/A|
 |[ts-loader](https://www.npmjs.com/ts-loader)|v9.2.8|03/24/22|Trustin Lee |MIT|N/A|
-|[ts-node](https://www.npmjs.com/ts-node)|v10.7.0|04/19/22|Trustin Lee |MIT|N/A|
+|[ts-node](https://www.npmjs.com/ts-node)|v10.9.1|08/19/23|Ikhun Um |MIT|N/A|
 |[tsconfig-paths](https://www.npmjs.com/tsconfig-paths)|v3.14.1|04/19/22|Trustin Lee |MIT|N/A|
 |[webpack-bundle-analyzer](https://www.npmjs.com/webpack-bundle-analyzer)|v4.8.0|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.9.2|03/31/23|Doğaç Eldenk |MIT|N/A|
 |[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v4.8.1|03/31/23|Doğaç Eldenk |MIT|N/A|
 
+
+## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (3)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[com.graphql-java:graphql-java](https://github.com/graphql-java/graphql-java)|v19.2|12/22/22|Ikhun Um |MIT|[CVE-2023-28867](https://github.com/advisories/GHSA-p4qx-6w5p-4rj2) (High)|
+|[org.apache.thrift:libthrift](http://thrift.apache.org)|v0.9.1|12/06/22|minux |Apache-2.0|[CVE-2019-0205](https://github.com/advisories/GHSA-rj7p-rfgp-852x) (High)<br/>[CVE-2018-1320](https://github.com/advisories/GHSA-wjxj-f8rg-99wx) (High)|
+|[org.springframework.boot:spring-boot-starter-test](https://projects.spring.io/spring-boot/#/spring-boot-parent/spring-boot-starters/spring-boot-starter-test)|N/A|03/28/23|Ikhun Um |Apache-2.0|N/A|
+
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
